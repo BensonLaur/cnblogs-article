@@ -33,3 +33,5 @@ content added for test 2
 
 
 <img src="https://pic.cnblogs.com/avatar/683006/20240716120356.png" alt="Test Image2" width="400">
+
+测试图片有时候能成功更新
