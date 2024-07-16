@@ -16,6 +16,7 @@ content added for test 2
 测试显示图片（image\2024-07-16\1.png）
 
 [图片1](image\2024-07-16\1.png)
+<img src="image\2024-07-16\1.png" alt="图片1" width="400">
 
 
 测试显示图片（https://pic.cnblogs.com/avatar/683006/20240716120356.png）
