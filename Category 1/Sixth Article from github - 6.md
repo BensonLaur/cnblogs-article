@@ -31,3 +31,12 @@ content added for test 2
 <img src="https://pic.cnblogs.com/avatar/683006/20240716120356.png" alt="Test Image2" width="400">
 
 测试图片有时候能成功更新
+
+//生成了
+https://img2023.cnblogs.com/blog/683006/202407/683006-20240716165226360-1759433354.png
+
+//缓存了
+https://img2024.cnblogs.com/blog/683006/202407/683006-20240716164719756-368966419.png
+
+//最后又生成了
+https://img2023.cnblogs.com/blog/683006/202407/683006-20240716165318449-1707839285.png
