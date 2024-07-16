@@ -7,3 +7,6 @@ content for test 1
 content added for test 2
 
 文章链接： https://www.cnblogs.com/BensonLaur/p/18305465
+
+
+测试修改 cblog 覆盖情况
