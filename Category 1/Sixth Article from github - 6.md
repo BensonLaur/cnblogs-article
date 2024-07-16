@@ -15,9 +15,13 @@ content added for test 2
 
 测试显示图片（image\2024-07-16\1.png）
 
-[图片1](image\2024-07-16\2.png)
+[图片2](image\2024-07-16\2.png)
 
 <img src="image\2024-07-16\2.png" alt="图片2" width="400">
+
+[图片3](image\2024-07-16\3.png)
+
+<img src="image\2024-07-16\3.png" alt="图片3" width="400">
 
 
 测试显示图片（https://pic.cnblogs.com/avatar/683006/20240716120356.png）
@@ -40,3 +44,4 @@ https://img2024.cnblogs.com/blog/683006/202407/683006-20240716164719756-36896641
 
 //最后又生成了
 https://img2023.cnblogs.com/blog/683006/202407/683006-20240716165318449-1707839285.png
+https://img2023.cnblogs.com/blog/683006/202407/683006-20240716165502071-97637810.png
