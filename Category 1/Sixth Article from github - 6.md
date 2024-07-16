@@ -21,3 +21,7 @@ content added for test 2
 测试显示图片（https://pic.cnblogs.com/avatar/683006/20240716120356.png）
 
 [图片2](https://pic.cnblogs.com/avatar/683006/20240716120356.png)
+
+
+测试显示图片（https://pic.cnblogs.com/avatar/683006/20240716120356.png）
+<img src="https://pic.cnblogs.com/avatar/683006/20240716120356.png" alt="Test Image2" width="400">
