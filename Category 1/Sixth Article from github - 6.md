@@ -17,7 +17,7 @@ content added for test 2
 
 [图片1](image\2024-07-16\1.png)
 
-<img src="image\2024-07-16\2.png" alt="图片1" width="400">
+<img src="https://img2024.cnblogs.com/blog/683006/202407/683006-20240716164719756-368966419" alt="图片1" width="400">
 
 <img src="image\2024-07-16\2.png" alt="图片2" width="400">
 
